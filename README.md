@@ -4,7 +4,12 @@ flizz is a simple cli tool that applies image filters to an input image it is pr
 
 current filter:
 - box blur
+- 
+
 in progress filters:
 - kuwahara filter
+- 
+
 planned filters:
 - more in the future!!!! (i promise)
+- 
